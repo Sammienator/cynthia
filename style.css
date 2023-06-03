@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+
+h1{
+    font-family: 'Playfair Display', serif;
+}
+nav {
+    color: black;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  
+   
+   
+}
+
+.btnn{
+    background-color: #E5D1FA;
+}
+    
+.jumbo{
+    background-color: #E5D1FA;
+    margin-top: 0;
+}
+.bord{
+    
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    border: 5px solid  white;
+    margin-left: -10px;
+    margin-top: 20%;
+}
