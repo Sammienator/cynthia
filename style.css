@@ -13,9 +13,7 @@ nav {
    
 }
 
-.btnn{
-    background-color: #E5D1FA;
-}
+
     
 .jumbo{
     background-color: #E5D1FA;
@@ -29,4 +27,17 @@ nav {
     border: 5px solid  white;
     margin-left: -10px;
     margin-top: 20%;
+}
+.marketing{
+    justify-content: center;
+    align-items: center;
+    text-align: center
+}
+.marketing h2 {
+    text-align: left;
+}
+.marketing p{
+    text-align: left;
+}.marketing img{
+    align-items: left;
 }
