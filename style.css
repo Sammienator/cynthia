@@ -30,14 +30,15 @@ nav {
       min-height: 320px;
       height: 100%;
       border-radius: 10px;
-      width: 100%;
+      width: 300px;
+      
     }
 
-    
+/*     
 .jumbo{
     background-color: #E5D1FA;
     margin-top: 0;
-}
+} */
 .bord{
     
     height: 500px;
