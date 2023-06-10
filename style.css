@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
 
 section{
     padding: 70px;
@@ -7,6 +7,14 @@ section{
 
 h1{
     font-family: 'Playfair Display', serif;
+}
+p{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 20px;
+}
+.btn{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 20px;
 }
 nav {
     color: black;
